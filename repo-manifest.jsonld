@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/naacl2019-argument-annotations/commit/67dfa69e737dfe22ee56a1c3731fbe8c3059dbe1",
       "git:hexsha": "67dfa69e737dfe22ee56a1c3731fbe8c3059dbe1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/UKPLab/naacl2019-argument-annotations/commit/a286445ce8cdbaa847f9afb54662b83854cc0187",
