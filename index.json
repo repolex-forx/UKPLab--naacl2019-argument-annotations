@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "naacl2019-argument-annotations",
+  "versions": [
+    {
+      "commit": "67dfa69e737dfe22ee56a1c3731fbe8c3059dbe1",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:21:06.374217+00:00"
+    }
+  ]
+}
